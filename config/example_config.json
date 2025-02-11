@@ -1,0 +1,35 @@
+{
+    "Items": [
+        {
+            "Index": 1,
+            "Description": "Zone Crosspoint ID",
+            "Value": "2001"
+        },
+        {
+            "Index": 2,
+            "Description": "DM Crosspoint ID",
+            "Value": "11001"
+        },
+        {
+            "Index": 3,
+            "Description": "Monitor 1 Driver",
+            "Value": "1101"
+        },
+        {
+            "Index": 4,
+            "Description": "Monitor 2 Driver",
+            "Value": ""
+        },
+        {
+            "Index": 5,
+            "Description": "Monitor 3 Driver",
+            "Value": "3101"
+        },
+        {
+            "Index": 6,
+            "Description": "Monitor 4 Driver",
+            "Value": "4101"
+        }
+
+    ]
+}
